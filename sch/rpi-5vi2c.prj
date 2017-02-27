@@ -1,0 +1,6 @@
+schematics rpi-5vi2c.sch
+output-name ../pcb/rpi-5vi2c
+skip-m4
+elements-dir ../../../footprints
+
+
