@@ -1,13 +1,4 @@
 v 20130925 2
-C 13300 8700 1 0 0 hole-1.sym
-{
-T 13300 8700 5 10 0 1 0 0 1
-device=HOLE
-T 13500 9300 5 10 1 1 0 4 1
-refdes=H1
-T 13300 8700 5 10 0 0 0 0 1
-footprint=STANDOFF_HEX_n4
-}
 T 13200 5300 9 10 1 0 0 0 1
 *Jack as viewed from front
 C 15100 5600 1 0 1 modular_6p6c_small_i2c.sym

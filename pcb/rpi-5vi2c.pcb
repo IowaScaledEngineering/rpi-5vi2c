@@ -9,7 +9,7 @@ Grid[500.000000 0.0000 0.0000 0]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[8.00mil 8.00mil 8.00mil 8.00mil 20.00mil 8.00mil]
-Flags("showdrc,rubberband,nameonpcb,uniquename,clearnew,snappin,onlynames")
+Flags("showdrc,rubberband,nameonpcb,uniquename,clearnew,snappin")
 Groups("1,c:2,s:3")
 Styles["Signal,10.00mil,36.00mil,20.00mil,10.00mil:Power,25.00mil,60.00mil,35.00mil,10.00mil:Fat,40.00mil,200.00mil,2.7500mm,10.00mil:Skinny,6.00mil,24.02mil,11.81mil,6.00mil"]
 
